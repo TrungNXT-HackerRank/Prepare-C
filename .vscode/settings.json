@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc $fileName -o ..\\out\\$fileNameWithoutExt && ..\\out\\$fileNameWithoutExt"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
